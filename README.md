@@ -1,0 +1,2 @@
+# wakequake-privacy
+policy
